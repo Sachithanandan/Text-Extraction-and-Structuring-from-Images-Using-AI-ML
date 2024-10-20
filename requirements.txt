@@ -1,0 +1,5 @@
+opencv-python
+numpy
+easyocr
+scikit-image
+craft-text-detector

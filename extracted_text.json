@@ -1,0 +1,15 @@
+{
+    "HORMONES": "",
+    "Pineal": "gland, Melatonin",
+    "Hypothalamus": "TRH,, CRH,, GHRH, Dopamine, Somatostatin, Vasopressin",
+    "Pituitary": "gland, GH,, TSH,, ACTH, FSH,, MSH, LH, Prolactin,, Oxytocin, Vasopressin",
+    "Thyroid": "and, Parathyroid, T3,, T4,, Calcitonin, PTH",
+    "Thymus": "Thymopoietin",
+    "Liver": "IGF,, THPO",
+    "Adrenal": "Androgens, Glucocorticoids, Adrenaline, Noradrenaline",
+    "Stomach": "Gastrin,, Ghrelin, Histamine, Somatostatin, Neuropeptide, Pancreas, Insulin,, Glucagon, Somatostatin",
+    "Kidney": "Calcitriol,, Renin, Erythropoietin",
+    "Ovary;": "Placenta, Estrogens, Progesterone",
+    "Testes": "Androgens, Estradiol,, Inhibin",
+    "Uterus": "Prolactin,, Relaxin"
+}

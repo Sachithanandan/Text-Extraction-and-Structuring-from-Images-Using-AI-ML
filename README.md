@@ -1,4 +1,4 @@
-**Text Extraction and Structuring from Images Using AI/ML**
+## ***Text Extraction and Structuring from Images Using AI/ML***
 
 ## **Overview**
 This project uses an AI/ML-driven approach to extract, organize, and structure text from images. The solution integrates Optical Character Recognition (OCR), image preprocessing, and Natural Language Processing (NLP) techniques to separate headers and content into an organized dictionary format.
@@ -49,15 +49,7 @@ The project combines AI-based OCR with heuristic-based logic to differentiate he
    ```bash
    pip install -r requirements.txt
    ```
-   The `requirements.txt` should contain:
-   ```
-   opencv-python
-   numpy
-   easyocr
-   scikit-image
-   craft-text-detector
-   ```
-
+   
 3. **Run the Code**
    Provide the input image path and output JSON path in the code or through the command line:
    ```bash
@@ -99,18 +91,6 @@ Given an image with various hormone names and gland details, the output dictiona
     ...
 }
 ```
-
-## **Future Enhancements**
-- **Deep Learning for Header-Content Classification**: Replace heuristic-based separation with a supervised model trained to classify headers and content based on labeled data.
-- **Custom OCR Training**: Train a custom OCR model to handle domain-specific challenges, improving text extraction accuracy.
-- **NLP-Based Content Structuring**: Use advanced NLP techniques (e.g., named entity recognition, text summarization) for better content grouping and organization.
-
 ## **Conclusion**
 This solution is a hybrid of **AI/ML techniques** combined with traditional image processing. It leverages the power of OCR, combined with rules and heuristics, to extract and structure text effectively from images.
 
-## **Contact**
-For issues or enhancements, please open an issue in the repository or contact [Your Name] at [Your Email].
-
----
-
-Feel free to modify it to include any specific instructions or details!

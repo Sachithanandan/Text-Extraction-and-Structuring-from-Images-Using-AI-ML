@@ -36,7 +36,7 @@ The project combines AI-based OCR with heuristic-based logic to differentiate he
   - EasyOCR
   - skimage
   - Craft-Text-Detector
-  - Any other library mentioned in the code
+ 
 
 ### **Installation Steps**
 1. **Clone the Repository**
